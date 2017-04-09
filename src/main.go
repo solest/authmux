@@ -1,10 +1,9 @@
 package main
 
 import (
-  "net"
-  "fmt"
+	"fmt"
 )
 
-func main (){
-  fmt.println("Oh hey!")
+func main() {
+	fmt.Println("Oh hey!")
 }
